@@ -49,7 +49,7 @@ You can use the following URL for testing:
 
 - **Programming Language**: Java
 - **Automation Tool**: Selenium WebDriver
-- **IDE**: Eclipse
+- **IDE**: Eclipse  
 - **Build Tool**: Maven
 - **Testing Framework**: TestNG/JUnit
 - **Version Control**: Git
@@ -142,34 +142,3 @@ To run the test suite automatically on a regular basis, follow these steps:
 
 4. **Post-build Actions**
    - Configure post-build actions to archive test reports and notify stakeholders of test results.
-
-## Contributing
-
-Contributions are welcome! Please follow these steps to contribute:
-
-1. **Fork the Repository**
-2. **Create a Feature Branch**
-   ```bash
-   git checkout -b feature/YourFeature
-   ```
-3. **Commit Your Changes**
-   ```bash
-   git commit -m "Add Your Feature"
-   ```
-4. **Push to the Branch**
-   ```bash
-   git push origin feature/YourFeature
-   ```
-5. **Create a Pull Request**
-
-
-## Contact
-
-For any queries or support, please contact:
-
-- **Name**: Santosh Sonawane
-- **Email**: Mrsantosh045@example.com
-- **LinkedIn**: https://www.linkedin.com/in/santosh-sonawane-8230ab178/
----
-
-*Happy Testing! 🚀*
